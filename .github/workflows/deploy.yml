@@ -26,7 +26,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install # หรือ bun install หากใช้ bun
+        run: npm install 
 
       - name: Build project
         run: npm run build
