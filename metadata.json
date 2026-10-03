@@ -1,0 +1,7 @@
+{
+  "name": "AI Study Planner",
+  "description": "เว็บแอปพลิเคชันวางแผนการอ่านหนังสือก่อนสอบแบบเฉพาะบุคคลด้วย AI สำหรับนักศึกษา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
